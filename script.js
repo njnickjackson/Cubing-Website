@@ -1,3 +1,5 @@
+// Author: Nick Jackson
+
 var time = 0;
 var running = 0;
 
