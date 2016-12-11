@@ -1,0 +1,48 @@
+.test{
+	color: green;
+	border: 10px solid;
+	margin: 50px 0px 0px 0px;
+	border-radius: 5px;
+}
+h1{
+	background: black;
+	font-size: 100px;
+	text-align: center;
+}
+.header-spacing{
+	background-color: green;
+	width: 10em;
+	border: 5px solid black;
+	cursor: pointer;
+	border-radius: 10px;
+	font-size: 18px;
+	
+	
+}
+.alignment{
+	text-align: right;
+}
+.remove{
+	text-decoration: none;
+	color: black;
+	
+}
+.video{
+	border: 20px solid;
+	border-radius: 10px;
+	margin: 50px;
+}
+#output{
+	background-color: green;
+	border: 5px solid black;
+	text-align: center;
+	font-size: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	margin-bottom: auto;
+}
+.timer{
+	text-align: center;
+	color: white;
+}
